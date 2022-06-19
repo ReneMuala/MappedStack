@@ -24,4 +24,4 @@ int main(){
 > instale cmake, git e um compilador c++ depois execute o comando a seguir no seu terminal. 
 
 ```
-git clone https://github.com/ReneMuala/MappedStack.git && cd MappedStack && mkdir build && cmake .. && cmake --build .
+git clone https://github.com/ReneMuala/MappedStack.git && cd MappedStack && mkdir build && cd build && cmake .. && cmake --build .
