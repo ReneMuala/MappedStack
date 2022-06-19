@@ -1,6 +1,6 @@
 # MappedStack
 
-An implmenation of maps and stacks provides a no SQL like interface.
+An implmenation of maps and stacks provides a no SQL like database interface.
 
 _Uma implementação de mapas e pilhas que providencia uma interface semlhante a de uma base de dados não estructurada._
 
